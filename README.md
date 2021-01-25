@@ -25,7 +25,7 @@ The user has either limited number of tries or a certain score to attain to pass
  Continuous Challenges: We have added multitude of challenges and mini games at each level to keep the player hooked up.
  
 ## Architecture:
-![PROJECT ARCHITECTURE])![name-of-you-image](https://your-copied-image-address)
+![PROJECT ARCHITECTURE])(https://PROJECT ARCHITECTURE.jfif)
 
 
 ## DOCUMENTATION
