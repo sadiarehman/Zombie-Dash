@@ -3,8 +3,7 @@
 # Project Title: Zombie Dash
 # Group: Mighty Pythons
 
-## Group Members:
-## Name: 							
+## Group Members:						
 Hafsa Malik	,Hafsa Tariq,Zainab Anwaar,Sadia Rehman					
 
 ## Project Description:
