@@ -13,10 +13,14 @@ But, safety doesn’t come easy in a situation like this. Through this journey, 
 The user has either limited number of tries or a certain score to attain to pass through each level. 
 
 ## Features:
- Genre: Adventure based Survival 
+ Genre: Adventure based Survival
+ 
  Game Mode: Single player multi-level game
+ 
  Graphics:  Zombie Dash uses a GUI to allow the player to interact with and play the game
+ 
  Target Audience: Zombie Dash is not aimed at a specific audience rather by adding challenges from easy to hard level we are aiming to attract people from different age groups.
+ 
  Continuous Challenges: We have added multitude of challenges and mini games at each level to keep the player hooked up.
  
 ## Architecture:
