@@ -5,11 +5,7 @@
 
 ## Group Members:
 ## Name: 							
-Hafsa Malik					  
-Hafsa Tariq		
-
-Zainab Anwaar				
-Sadia Rehman					
+Hafsa Malik	,Hafsa Tariq,Zainab Anwaar,Sadia Rehman					
 
 ## Project Description:
 Zombie Dash is a captivating multi-level game that encompasses the themes of adventure and survival. It’s a Python based game in which the user assumes the role of the player and attempts to survive a zombie apocalypse.
